@@ -1,4 +1,4 @@
 # hello-world
-just anpther repository
+just another repository
 
-this is a readme
+remove / and add line
